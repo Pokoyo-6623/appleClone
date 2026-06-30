@@ -22,6 +22,9 @@ body {
   -webkit-box-pack: justify;
   justify-content: space-between;
 }
+.headddddd {
+  height: auto;
+}
 .internal-wrapper {
   width: 980px;
   padding: 0 10px;
